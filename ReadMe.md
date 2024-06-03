@@ -1,7 +1,7 @@
 # Hey there, I'm Taz 👋
 
 ## About Me
-I'm a passionate but socially awkward programmer
+I'm a passionate but socially awkward programmer, and currently a student at [42 School](https://42.fr/en/homepage/)
 
 ## 📈 Github Stats
 <div style="display: flex; justify-content: space-between;">
