@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm ttas</h1>
-<h3 align="center">A passionate but socially awkward programmer</h3>
+# Hey there, I'm Taz 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tazerotu&label=Profile%20views&color=0e75b6&style=flat" alt="tazerotu" /> </p>
+## 🦊 About Me
+I'm a passionate but socially awkward programmer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## 🛠️ Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tazerotu&show_icons=true&locale=en&layout=compact" alt="tazerotu" /></p>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tazerotu&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tazerotu&show_icons=true&locale=en" alt="tazerotu" /></p>
+## 📈 Github Stats
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tazerotu&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tazerotu&theme=react&hide_border=true" style="width: 51%;">
+</div>
+
+## 🔭 Projects
+- **[Libft](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%201/libft):** Your first own library
+- **[Printf](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%202/ft_printf):** Because ft_putnbr() and ft_putstr() aren't enough
+- **[GNL]([https://github.com/flmarsou/2.2-get_next_line](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%202/gnl)):** Reading a line on a fd is way too tedious
+- **[Push Swap](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%203/Push-Swap):** Because Swap_push isn't as natural
+
+[![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
