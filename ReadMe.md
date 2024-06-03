@@ -1,6 +1,6 @@
 # Hey there, I'm Taz 👋
 
-## 🦊 About Me
+## About Me
 I'm a passionate but socially awkward programmer
 
 ## 📈 Github Stats
