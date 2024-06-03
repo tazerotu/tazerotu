@@ -15,4 +15,4 @@ I'm a passionate but socially awkward programmer
 - **[GNL](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%202/gnl):** Reading a line on a fd is way too tedious
 - **[Push Swap](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%203/Push-Swap):** Because Swap_push isn't as natural
 
-[![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tazerotu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
