@@ -10,6 +10,6 @@ I'm a passionate but socially awkward programmer, and currently a student at [42
 </div>
 
 ## 🔭 Projects
-- **[42 Cursus](https://github.com/tazerotu/42-School)**
+- **[42 School](https://github.com/tazerotu/42-School)**
 
 [![](https://visitcount.itsvg.in/api?id=tazerotu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
