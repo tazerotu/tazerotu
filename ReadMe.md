@@ -1,4 +1,4 @@
-# Hey there, I'm Taz 👋
+# Hey there 👋
 
 ## About Me
 I'm a passionate but socially awkward programmer, and currently a student at [42 School](https://42.fr/en/homepage/)
@@ -10,9 +10,6 @@ I'm a passionate but socially awkward programmer, and currently a student at [42
 </div>
 
 ## 🔭 Projects
-- **[Libft](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%201/libft):** Your first own library
-- **[Printf](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%202/ft_printf):** Because ft_putnbr() and ft_putstr() aren't enough
-- **[GNL](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%202/gnl):** Reading a line on a fd is way too tedious
-- **[Push Swap](https://github.com/tazerotu/42-Cursus/tree/main/Cercle%203/Push-Swap):** Because Swap_push isn't as natural
+- **[42 Cursus](https://github.com/tazerotu/42-Cursus):** Your first own library
 
 [![](https://visitcount.itsvg.in/api?id=tazerotu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
