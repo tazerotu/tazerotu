@@ -61,8 +61,9 @@ Projects in this group extend the Common Core into specialized systems, security
 
 </details>
 
+### [Other Projects]
+
 <details>
-<summary><strong>Other Projects</strong></summary>
 
 - *(No projects listed yet)*
 
