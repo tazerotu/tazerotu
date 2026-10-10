@@ -61,12 +61,9 @@ Projects in this group extend the Common Core into specialized systems, security
 
 </details>
 
-### [Other Projects]
-
-<details>
+### Other Projects
 
 - *(No projects listed yet)*
 
-</details>
 
 [![](https://visitcount.itsvg.in/api?id=tazerotu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
