@@ -63,7 +63,7 @@ Projects in this group extend the Common Core into specialized systems, security
 
 ### Other Projects
 
-- **[Discord Bot]()**
+- **[Discord Bot](https://github.com/tazerotu/Discord_Bot)**
 
 
 [![](https://visitcount.itsvg.in/api?id=tazerotu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
